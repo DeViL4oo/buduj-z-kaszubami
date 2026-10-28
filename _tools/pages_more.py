@@ -57,7 +57,7 @@ def gallery_html():
         w, h = dims(name)
         out.append(f'''<figure class="gallery__item">
   <a class="gallery__link" href="{IMG}/{name}.webp" data-full="{IMG}/{name}.webp" data-alt="{alt}" data-w="{w}" data-h="{h}" aria-label="Powiększ zdjęcie {i} z {len(GALLERY)}: {alt}">
-    {pic(name, alt, sizes=GAL_SIZES)}
+    {pic(name, alt, sizes=GAL_SIZES, priority=(i <= 4))}
     <span class="gallery__zoom">{icon("zoom")}</span>
   </a>
 </figure>''')
