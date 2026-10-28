@@ -108,6 +108,29 @@
 
   initReveal();
 
+  /* ---------------- Obrazy: pobieranie z wyprzedzeniem ----------------
+     Natywne loading="lazy" w Chrome wstrzymuje żądanie ok. 1 s po wejściu
+     obrazu w viewport, co widać jako „doczytywanie” przy przewijaniu.
+     Podnosimy obraz do loading="eager", gdy jest jeszcze ~1600 px przed
+     viewportem — dalsze obrazy (np. koniec galerii) pozostają odroczone. */
+  if ("IntersectionObserver" in window) {
+    var lazyImgs = $$('img[loading="lazy"]');
+    if (lazyImgs.length) {
+      var ioLazy = new IntersectionObserver(
+        function (entries) {
+          entries.forEach(function (en) {
+            if (en.isIntersecting) {
+              en.target.loading = "eager";
+              ioLazy.unobserve(en.target);
+            }
+          });
+        },
+        { rootMargin: "400px 0px" }
+      );
+      lazyImgs.forEach(function (img) { ioLazy.observe(img); });
+    }
+  }
+
   /* ---------------- Liczniki ---------------- */
   var counters = $$(".count[data-count]");
   if (counters.length) {
