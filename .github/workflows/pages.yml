@@ -40,10 +40,6 @@ jobs:
                       text = text.replace('url("/', f'url("{BASE}/').replace("url('/", f"url('{BASE}/")
                   else:
                       text = attr.sub(lambda m: m.group(1) + BASE + "/", text)
-                      text = text.replace(
-                          'content="index,follow,max-image-preview:large"',
-                          'content="noindex,follow"',
-                      )
                   open(path, "w", encoding="utf-8", newline="").write(text)
           PY
 
