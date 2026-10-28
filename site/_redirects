@@ -1,0 +1,22 @@
+// Cloudflare Pages / Netlify — przekierowania (301)
+// Plik musi leżeć w katalogu publikacji.
+
+# Normalizacja ukośnika i adresy kanoniczne
+/o-firmie            /o-firmie/            301
+/oferta              /oferta/              301
+/galeria             /galeria/             301
+/kontakt             /kontakt/             301
+/polityka-prywatnosci   /polityka-prywatnosci/    301
+/polityka-cookies       /polityka-cookies/        301
+/obowiazek-informacyjny /obowiazek-informacyjny/  301
+/tabela-cookies         /polityka-cookies/        301
+/tabela-cookies/        /polityka-cookies/        301
+/dziekujemy             /dziekujemy/              301
+/oferta/uslugi-budowlane          /oferta/uslugi-budowlane/          301
+/oferta/uslugi-wykonczeniowe      /oferta/uslugi-wykonczeniowe/      301
+/oferta/uslugi-remontowe          /oferta/uslugi-remontowe/          301
+/oferta/uslugi-koparko-ladowarka  /oferta/uslugi-koparko-ladowarka/  301
+
+# Stare adresy Joomla
+/index.php          /       301
+/index.php/*        /       301

@@ -1,0 +1,1528 @@
+{
+ "article-main-f-1": {
+  "w": 700,
+  "h": 710,
+  "src": "images_design_article-main-f-1.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 406,
+    "avif": 10400,
+    "webp": 16462
+   },
+   {
+    "w": 600,
+    "h": 609,
+    "avif": 19199,
+    "webp": 29182
+   },
+   {
+    "w": 700,
+    "h": 710,
+    "avif": 25290,
+    "webp": 36644
+   }
+  ]
+ },
+ "bg-parallax-subpage-o-nas": {
+  "w": 1920,
+  "h": 1400,
+  "src": "images_design_bg-parallax-subpage-o-nas.webp",
+  "variants": [
+   {
+    "w": 640,
+    "h": 467,
+    "avif": 11531,
+    "webp": 17174
+   },
+   {
+    "w": 960,
+    "h": 700,
+    "avif": 18928,
+    "webp": 28770
+   },
+   {
+    "w": 1280,
+    "h": 933,
+    "avif": 28116,
+    "webp": 42984
+   },
+   {
+    "w": 1920,
+    "h": 1400,
+    "avif": 52357,
+    "webp": 80450
+   }
+  ]
+ },
+ "box-offer-h": {
+  "w": 768,
+  "h": 966,
+  "src": "images_design_box-offer-h.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 503,
+    "avif": 8976,
+    "webp": 12312
+   },
+   {
+    "w": 600,
+    "h": 755,
+    "avif": 19429,
+    "webp": 26408
+   },
+   {
+    "w": 768,
+    "h": 966,
+    "avif": 32826,
+    "webp": 40988
+   }
+  ]
+ },
+ "box-offer-h-1": {
+  "w": 768,
+  "h": 966,
+  "src": "images_design_box-offer-h-1.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 503,
+    "avif": 7513,
+    "webp": 10132
+   },
+   {
+    "w": 600,
+    "h": 755,
+    "avif": 13991,
+    "webp": 18562
+   },
+   {
+    "w": 768,
+    "h": 966,
+    "avif": 21336,
+    "webp": 27014
+   }
+  ]
+ },
+ "box-offer-h-2": {
+  "w": 768,
+  "h": 966,
+  "src": "images_design_box-offer-h-2.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 503,
+    "avif": 8970,
+    "webp": 12778
+   },
+   {
+    "w": 600,
+    "h": 755,
+    "avif": 16245,
+    "webp": 22398
+   },
+   {
+    "w": 768,
+    "h": 966,
+    "avif": 23916,
+    "webp": 31724
+   }
+  ]
+ },
+ "box-offer-h-3": {
+  "w": 768,
+  "h": 966,
+  "src": "images_design_box-offer-h-3.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 503,
+    "avif": 23083,
+    "webp": 38974
+   },
+   {
+    "w": 600,
+    "h": 755,
+    "avif": 45951,
+    "webp": 76702
+   },
+   {
+    "w": 768,
+    "h": 966,
+    "avif": 73265,
+    "webp": 117978
+   }
+  ]
+ },
+ "content-oferta": {
+  "w": 768,
+  "h": 561,
+  "src": "images_design_content-oferta.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 292,
+    "avif": 6555,
+    "webp": 9444
+   },
+   {
+    "w": 600,
+    "h": 438,
+    "avif": 12026,
+    "webp": 17280
+   },
+   {
+    "w": 768,
+    "h": 561,
+    "avif": 18360,
+    "webp": 26126
+   }
+  ]
+ },
+ "content-uslugi-budowlane": {
+  "w": 768,
+  "h": 561,
+  "src": "images_design_content-uslugi-budowlane.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 292,
+    "avif": 5784,
+    "webp": 7258
+   },
+   {
+    "w": 600,
+    "h": 438,
+    "avif": 10719,
+    "webp": 13350
+   },
+   {
+    "w": 768,
+    "h": 561,
+    "avif": 16792,
+    "webp": 19042
+   }
+  ]
+ },
+ "content-uslugi-koparko-ladowarka": {
+  "w": 768,
+  "h": 561,
+  "src": "images_design_content-uslugi-koparko-ladowarka.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 292,
+    "avif": 12047,
+    "webp": 19398
+   },
+   {
+    "w": 600,
+    "h": 438,
+    "avif": 23113,
+    "webp": 36646
+   },
+   {
+    "w": 768,
+    "h": 561,
+    "avif": 36438,
+    "webp": 54102
+   }
+  ]
+ },
+ "content-uslugi-remontowe": {
+  "w": 768,
+  "h": 561,
+  "src": "images_design_content-uslugi-remontowe.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 292,
+    "avif": 3373,
+    "webp": 3836
+   },
+   {
+    "w": 600,
+    "h": 438,
+    "avif": 6624,
+    "webp": 7170
+   },
+   {
+    "w": 768,
+    "h": 561,
+    "avif": 11220,
+    "webp": 11304
+   }
+  ]
+ },
+ "content-uslugi-wykonczeniowe": {
+  "w": 768,
+  "h": 561,
+  "src": "images_design_content-uslugi-wykonczeniowe.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 292,
+    "avif": 4655,
+    "webp": 6626
+   },
+   {
+    "w": 600,
+    "h": 438,
+    "avif": 8452,
+    "webp": 11900
+   },
+   {
+    "w": 768,
+    "h": 561,
+    "avif": 12606,
+    "webp": 17242
+   }
+  ]
+ },
+ "icon-breadcrumbs": {
+  "w": 21,
+  "h": 30,
+  "src": "images_design_icon-breadcrumbs.webp",
+  "variants": [
+   {
+    "w": 21,
+    "h": 30,
+    "avif": 359,
+    "webp": 104
+   }
+  ]
+ },
+ "icon-localization": {
+  "w": 30,
+  "h": 31,
+  "src": "images_design_icon-localization.webp",
+  "variants": [
+   {
+    "w": 30,
+    "h": 31,
+    "avif": 309,
+    "webp": 58
+   }
+  ]
+ },
+ "icon-mail": {
+  "w": 31,
+  "h": 31,
+  "src": "images_design_icon-mail.webp",
+  "variants": [
+   {
+    "w": 31,
+    "h": 31,
+    "avif": 309,
+    "webp": 58
+   }
+  ]
+ },
+ "icon-phone": {
+  "w": 30,
+  "h": 31,
+  "src": "images_design_icon-phone.webp",
+  "variants": [
+   {
+    "w": 30,
+    "h": 31,
+    "avif": 309,
+    "webp": 58
+   }
+  ]
+ },
+ "logo": {
+  "w": 170,
+  "h": 90,
+  "src": "images_design_logo.webp",
+  "variants": [
+   {
+    "w": 170,
+    "h": 90,
+    "avif": 315,
+    "webp": 90
+   }
+  ]
+ },
+ "offer-main-c": {
+  "w": 960,
+  "h": 350,
+  "src": "images_design_offer-main-c.webp",
+  "variants": [
+   {
+    "w": 480,
+    "h": 175,
+    "avif": 3023,
+    "webp": 3412
+   },
+   {
+    "w": 768,
+    "h": 280,
+    "avif": 5346,
+    "webp": 6258
+   },
+   {
+    "w": 960,
+    "h": 350,
+    "avif": 7170,
+    "webp": 8274
+   }
+  ]
+ },
+ "offer-main-c-1": {
+  "w": 960,
+  "h": 350,
+  "src": "images_design_offer-main-c-1.webp",
+  "variants": [
+   {
+    "w": 480,
+    "h": 175,
+    "avif": 3526,
+    "webp": 4576
+   },
+   {
+    "w": 768,
+    "h": 280,
+    "avif": 6322,
+    "webp": 8280
+   },
+   {
+    "w": 960,
+    "h": 350,
+    "avif": 8645,
+    "webp": 10810
+   }
+  ]
+ },
+ "offer-main-c-2": {
+  "w": 960,
+  "h": 350,
+  "src": "images_design_offer-main-c-2.webp",
+  "variants": [
+   {
+    "w": 480,
+    "h": 175,
+    "avif": 5502,
+    "webp": 8654
+   },
+   {
+    "w": 768,
+    "h": 280,
+    "avif": 9232,
+    "webp": 14480
+   },
+   {
+    "w": 960,
+    "h": 350,
+    "avif": 11894,
+    "webp": 18132
+   }
+  ]
+ },
+ "offer-main-c-3": {
+  "w": 960,
+  "h": 350,
+  "src": "images_design_offer-main-c-3.webp",
+  "variants": [
+   {
+    "w": 480,
+    "h": 175,
+    "avif": 13617,
+    "webp": 24706
+   },
+   {
+    "w": 768,
+    "h": 280,
+    "avif": 27429,
+    "webp": 50340
+   },
+   {
+    "w": 960,
+    "h": 350,
+    "avif": 38943,
+    "webp": 67702
+   }
+  ]
+ },
+ "photo-about-us": {
+  "w": 768,
+  "h": 561,
+  "src": "images_design_photo-about-us.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 292,
+    "avif": 6844,
+    "webp": 9810
+   },
+   {
+    "w": 600,
+    "h": 438,
+    "avif": 11766,
+    "webp": 16234
+   },
+   {
+    "w": 768,
+    "h": 561,
+    "avif": 16001,
+    "webp": 22074
+   }
+  ]
+ },
+ "slide-d-1": {
+  "w": 1920,
+  "h": 600,
+  "src": "images_design_slide-d-1.webp",
+  "variants": [
+   {
+    "w": 640,
+    "h": 200,
+    "avif": 7323,
+    "webp": 10382
+   },
+   {
+    "w": 960,
+    "h": 300,
+    "avif": 14122,
+    "webp": 18818
+   },
+   {
+    "w": 1280,
+    "h": 400,
+    "avif": 20760,
+    "webp": 28104
+   },
+   {
+    "w": 1920,
+    "h": 600,
+    "avif": 40491,
+    "webp": 50776
+   }
+  ]
+ },
+ "slide-d-1-1": {
+  "w": 1920,
+  "h": 600,
+  "src": "images_design_slide-d-1-1.webp",
+  "variants": [
+   {
+    "w": 640,
+    "h": 200,
+    "avif": 9476,
+    "webp": 15364
+   },
+   {
+    "w": 960,
+    "h": 300,
+    "avif": 18141,
+    "webp": 28998
+   },
+   {
+    "w": 1280,
+    "h": 400,
+    "avif": 28082,
+    "webp": 46478
+   },
+   {
+    "w": 1920,
+    "h": 600,
+    "avif": 55045,
+    "webp": 95426
+   }
+  ]
+ },
+ "usp": {
+  "w": 768,
+  "h": 567,
+  "src": "images_design_usp.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 295,
+    "avif": 328,
+    "webp": 278
+   },
+   {
+    "w": 600,
+    "h": 443,
+    "avif": 354,
+    "webp": 546
+   },
+   {
+    "w": 768,
+    "h": 567,
+    "avif": 364,
+    "webp": 848
+   }
+  ]
+ },
+ "usp-1": {
+  "w": 768,
+  "h": 567,
+  "src": "images_design_usp-1.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 295,
+    "avif": 947,
+    "webp": 760
+   },
+   {
+    "w": 600,
+    "h": 443,
+    "avif": 2162,
+    "webp": 1826
+   },
+   {
+    "w": 768,
+    "h": 567,
+    "avif": 2997,
+    "webp": 3034
+   }
+  ]
+ },
+ "usp-2": {
+  "w": 768,
+  "h": 567,
+  "src": "images_design_usp-2.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 295,
+    "avif": 666,
+    "webp": 506
+   },
+   {
+    "w": 600,
+    "h": 443,
+    "avif": 1414,
+    "webp": 1280
+   },
+   {
+    "w": 768,
+    "h": 567,
+    "avif": 2130,
+    "webp": 2262
+   }
+  ]
+ },
+ "usp-3": {
+  "w": 768,
+  "h": 567,
+  "src": "images_design_usp-3.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 295,
+    "avif": 328,
+    "webp": 278
+   },
+   {
+    "w": 600,
+    "h": 443,
+    "avif": 354,
+    "webp": 546
+   },
+   {
+    "w": 768,
+    "h": 567,
+    "avif": 364,
+    "webp": 848
+   }
+  ]
+ },
+ "gal-budowa-01": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-01.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 18661,
+    "webp": 26398
+   }
+  ]
+ },
+ "gal-budowa-02": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-02.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 24057,
+    "webp": 35060
+   }
+  ]
+ },
+ "gal-budowa-03": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-03.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 20721,
+    "webp": 28360
+   }
+  ]
+ },
+ "gal-budowa-04": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_budowa-04.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 17868,
+    "webp": 32590
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 42805,
+    "webp": 77910
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 70432,
+    "webp": 130888
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 82865,
+    "webp": 155280
+   }
+  ]
+ },
+ "gal-budowa-05": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_budowa-05.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 17919,
+    "webp": 31494
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 42724,
+    "webp": 77042
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 69960,
+    "webp": 128230
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 82174,
+    "webp": 152220
+   }
+  ]
+ },
+ "gal-budowa-06": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_budowa-06.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 17102,
+    "webp": 30304
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 39229,
+    "webp": 71986
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 64268,
+    "webp": 117210
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 76049,
+    "webp": 140988
+   }
+  ]
+ },
+ "gal-budowa-budynku-01": {
+  "w": 338,
+  "h": 600,
+  "src": "images_galerie_38_budowa-budynku-01.webp",
+  "variants": [
+   {
+    "w": 338,
+    "h": 600,
+    "avif": 11445,
+    "webp": 14770
+   }
+  ]
+ },
+ "gal-budowa-budynku-02": {
+  "w": 800,
+  "h": 451,
+  "src": "images_galerie_38_budowa-budynku-02.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 226,
+    "avif": 7567,
+    "webp": 11578
+   },
+   {
+    "w": 600,
+    "h": 338,
+    "avif": 15047,
+    "webp": 23672
+   },
+   {
+    "w": 768,
+    "h": 433,
+    "avif": 22780,
+    "webp": 36186
+   },
+   {
+    "w": 800,
+    "h": 451,
+    "avif": 26689,
+    "webp": 44674
+   }
+  ]
+ },
+ "gal-budowa-budynku-03": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-budynku-03.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 24983,
+    "webp": 38260
+   }
+  ]
+ },
+ "gal-budowa-budynku-04": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_budowa-budynku-04.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 12996,
+    "webp": 20652
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 24594,
+    "webp": 39540
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 35452,
+    "webp": 55456
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 39997,
+    "webp": 66506
+   }
+  ]
+ },
+ "gal-budowa-budynku-05": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_budowa-budynku-05.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 19132,
+    "webp": 33540
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 38385,
+    "webp": 66868
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 56544,
+    "webp": 99360
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 64480,
+    "webp": 113008
+   }
+  ]
+ },
+ "gal-budowa-budynku-06": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_budowa-budynku-06.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 8311,
+    "webp": 12110
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 16435,
+    "webp": 22804
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 23579,
+    "webp": 32578
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 27196,
+    "webp": 38500
+   }
+  ]
+ },
+ "gal-budowa-budynku-07": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_budowa-budynku-07.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 12405,
+    "webp": 19102
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 26365,
+    "webp": 40344
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 40919,
+    "webp": 61900
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 47052,
+    "webp": 75088
+   }
+  ]
+ },
+ "gal-budowa-budynku-08": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_budowa-budynku-08.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 12469,
+    "webp": 18270
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 27107,
+    "webp": 39700
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 42288,
+    "webp": 62360
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 50437,
+    "webp": 78420
+   }
+  ]
+ },
+ "gal-budowa-budynku-09": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_budowa-budynku-09.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 10744,
+    "webp": 14822
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 23163,
+    "webp": 33290
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 36788,
+    "webp": 52968
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 43775,
+    "webp": 67018
+   }
+  ]
+ },
+ "gal-budowa-budynku-10": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_budowa-budynku-10.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 11983,
+    "webp": 16518
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 26833,
+    "webp": 37664
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 41372,
+    "webp": 59736
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 49178,
+    "webp": 75088
+   }
+  ]
+ },
+ "gal-budowa-budynku-11": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_budowa-budynku-11.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 10699,
+    "webp": 17212
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 21765,
+    "webp": 34814
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 33011,
+    "webp": 52022
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 38433,
+    "webp": 63354
+   }
+  ]
+ },
+ "gal-budowa-domu-1": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-domu-1.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 17250,
+    "webp": 25492
+   }
+  ]
+ },
+ "gal-budowa-domu-10": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-domu-10.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 14658,
+    "webp": 18854
+   }
+  ]
+ },
+ "gal-budowa-domu-11": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-domu-11.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 19028,
+    "webp": 29698
+   }
+  ]
+ },
+ "gal-budowa-domu-2": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-domu-2.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 23316,
+    "webp": 32798
+   }
+  ]
+ },
+ "gal-budowa-domu-3": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-domu-3.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 29607,
+    "webp": 48824
+   }
+  ]
+ },
+ "gal-budowa-domu-4": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-domu-4.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 27676,
+    "webp": 43294
+   }
+  ]
+ },
+ "gal-budowa-domu-5": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-domu-5.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 27013,
+    "webp": 41112
+   }
+  ]
+ },
+ "gal-budowa-domu-6": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-domu-6.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 29055,
+    "webp": 48168
+   }
+  ]
+ },
+ "gal-budowa-domu-7": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-domu-7.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 26784,
+    "webp": 43532
+   }
+  ]
+ },
+ "gal-budowa-domu-8": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-domu-8.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 21531,
+    "webp": 32254
+   }
+  ]
+ },
+ "gal-budowa-domu-9": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_budowa-domu-9.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 32167,
+    "webp": 51396
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-1": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-1.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 6327,
+    "webp": 6760
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 13724,
+    "webp": 15708
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 21916,
+    "webp": 24712
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 27731,
+    "webp": 35924
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-10": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-10.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 12190,
+    "webp": 19382
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 25538,
+    "webp": 41922
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 38681,
+    "webp": 63184
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 44238,
+    "webp": 77564
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-11": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-11.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 15186,
+    "webp": 26342
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 32473,
+    "webp": 55544
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 48545,
+    "webp": 82954
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 55189,
+    "webp": 100242
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-12": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-12.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 13983,
+    "webp": 22632
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 29548,
+    "webp": 48288
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 44895,
+    "webp": 73974
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 51660,
+    "webp": 88888
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-13": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-13.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 15463,
+    "webp": 24586
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 32513,
+    "webp": 52560
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 48823,
+    "webp": 79388
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 55886,
+    "webp": 97278
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-2": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-2.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 13841,
+    "webp": 21080
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 29599,
+    "webp": 46346
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 46279,
+    "webp": 70850
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 54254,
+    "webp": 88534
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-3": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-3.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 19985,
+    "webp": 27540
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-4": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-4.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 22168,
+    "webp": 31352
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-5": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-5.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 15572,
+    "webp": 20148
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-6": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-6.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 21983,
+    "webp": 34192
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-7": {
+  "w": 450,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-7.webp",
+  "variants": [
+   {
+    "w": 450,
+    "h": 600,
+    "avif": 17648,
+    "webp": 26814
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-8": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-8.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 13916,
+    "webp": 21044
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 29402,
+    "webp": 46000
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 43400,
+    "webp": 69564
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 50437,
+    "webp": 85956
+   }
+  ]
+ },
+ "gal-teren-budowy-domu-9": {
+  "w": 800,
+  "h": 600,
+  "src": "images_galerie_38_teren-budowy-domu-9.webp",
+  "variants": [
+   {
+    "w": 400,
+    "h": 300,
+    "avif": 13369,
+    "webp": 20228
+   },
+   {
+    "w": 600,
+    "h": 450,
+    "avif": 27820,
+    "webp": 42312
+   },
+   {
+    "w": 768,
+    "h": 576,
+    "avif": 41652,
+    "webp": 63010
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "avif": 48450,
+    "webp": 77796
+   }
+  ]
+ }
+}

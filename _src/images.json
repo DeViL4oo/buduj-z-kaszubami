@@ -1,0 +1,874 @@
+[
+ {
+  "url": "https://budujzkaszubami.pl/images/design/article-main-f-1.webp",
+  "file": "images_design_article-main-f-1.webp",
+  "w": 700,
+  "h": 710,
+  "fmt": "WEBP",
+  "bytes": 67670
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/bg-parallax-subpage-o-nas.webp",
+  "file": "images_design_bg-parallax-subpage-o-nas.webp",
+  "w": 1920,
+  "h": 1400,
+  "fmt": "WEBP",
+  "bytes": 156238
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/box-offer-h.webp",
+  "file": "images_design_box-offer-h.webp",
+  "w": 768,
+  "h": 966,
+  "fmt": "WEBP",
+  "bytes": 81832
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/box-offer-h-1.webp",
+  "file": "images_design_box-offer-h-1.webp",
+  "w": 768,
+  "h": 966,
+  "fmt": "WEBP",
+  "bytes": 62386
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/box-offer-h-2.webp",
+  "file": "images_design_box-offer-h-2.webp",
+  "w": 768,
+  "h": 966,
+  "fmt": "WEBP",
+  "bytes": 64294
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/box-offer-h-3.webp",
+  "file": "images_design_box-offer-h-3.webp",
+  "w": 768,
+  "h": 966,
+  "fmt": "WEBP",
+  "bytes": 201350
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/content-oferta.webp",
+  "file": "images_design_content-oferta.webp",
+  "w": 768,
+  "h": 561,
+  "fmt": "WEBP",
+  "bytes": 52286
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/content-uslugi-budowlane.webp",
+  "file": "images_design_content-uslugi-budowlane.webp",
+  "w": 768,
+  "h": 561,
+  "fmt": "WEBP",
+  "bytes": 44842
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/content-uslugi-koparko-ladowarka.webp",
+  "file": "images_design_content-uslugi-koparko-ladowarka.webp",
+  "w": 768,
+  "h": 561,
+  "fmt": "WEBP",
+  "bytes": 108646
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/content-uslugi-remontowe.webp",
+  "file": "images_design_content-uslugi-remontowe.webp",
+  "w": 768,
+  "h": 561,
+  "fmt": "WEBP",
+  "bytes": 33758
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/content-uslugi-wykonczeniowe.webp",
+  "file": "images_design_content-uslugi-wykonczeniowe.webp",
+  "w": 768,
+  "h": 561,
+  "fmt": "WEBP",
+  "bytes": 32938
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/icon-breadcrumbs.webp",
+  "file": "images_design_icon-breadcrumbs.webp",
+  "w": 21,
+  "h": 30,
+  "fmt": "WEBP",
+  "bytes": 422
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/icon-localization.webp",
+  "file": "images_design_icon-localization.webp",
+  "w": 30,
+  "h": 31,
+  "fmt": "WEBP",
+  "bytes": 430
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/icon-mail.webp",
+  "file": "images_design_icon-mail.webp",
+  "w": 31,
+  "h": 31,
+  "fmt": "WEBP",
+  "bytes": 348
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/icon-phone.webp",
+  "file": "images_design_icon-phone.webp",
+  "w": 30,
+  "h": 31,
+  "fmt": "WEBP",
+  "bytes": 444
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/logo.webp",
+  "file": "images_design_logo.webp",
+  "w": 170,
+  "h": 90,
+  "fmt": "WEBP",
+  "bytes": 912
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/offer-main-c.webp",
+  "file": "images_design_offer-main-c.webp",
+  "w": 960,
+  "h": 350,
+  "fmt": "WEBP",
+  "bytes": 15770
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/offer-main-c-1.webp",
+  "file": "images_design_offer-main-c-1.webp",
+  "w": 960,
+  "h": 350,
+  "fmt": "WEBP",
+  "bytes": 21166
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/offer-main-c-2.webp",
+  "file": "images_design_offer-main-c-2.webp",
+  "w": 960,
+  "h": 350,
+  "fmt": "WEBP",
+  "bytes": 32804
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/offer-main-c-3.webp",
+  "file": "images_design_offer-main-c-3.webp",
+  "w": 960,
+  "h": 350,
+  "fmt": "WEBP",
+  "bytes": 116868
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/photo-about-us.webp",
+  "file": "images_design_photo-about-us.webp",
+  "w": 768,
+  "h": 561,
+  "fmt": "WEBP",
+  "bytes": 40694
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/slide-d-1.webp",
+  "file": "images_design_slide-d-1.webp",
+  "w": 1920,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 112286
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/slide-d-1-1.webp",
+  "file": "images_design_slide-d-1-1.webp",
+  "w": 1920,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 131076
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/usp.webp",
+  "file": "images_design_usp.webp",
+  "w": 768,
+  "h": 567,
+  "fmt": "WEBP",
+  "bytes": 8236
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/usp-1.webp",
+  "file": "images_design_usp-1.webp",
+  "w": 768,
+  "h": 567,
+  "fmt": "WEBP",
+  "bytes": 14106
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/usp-2.webp",
+  "file": "images_design_usp-2.webp",
+  "w": 768,
+  "h": 567,
+  "fmt": "WEBP",
+  "bytes": 9296
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/design/usp-3.webp",
+  "file": "images_design_usp-3.webp",
+  "w": 768,
+  "h": 567,
+  "fmt": "WEBP",
+  "bytes": 7554
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-01.webp",
+  "file": "images_galerie_38_budowa-01.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 29142
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-02.webp",
+  "file": "images_galerie_38_budowa-02.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 38178
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-03.webp",
+  "file": "images_galerie_38_budowa-03.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 32058
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-04.webp",
+  "file": "images_galerie_38_budowa-04.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 165874
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-05.webp",
+  "file": "images_galerie_38_budowa-05.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 161992
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-06.webp",
+  "file": "images_galerie_38_budowa-06.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 150192
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-budynku-01.webp",
+  "file": "images_galerie_38_budowa-budynku-01.webp",
+  "w": 338,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 18142
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-budynku-02.webp",
+  "file": "images_galerie_38_budowa-budynku-02.webp",
+  "w": 800,
+  "h": 451,
+  "fmt": "WEBP",
+  "bytes": 48494
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-budynku-03.webp",
+  "file": "images_galerie_38_budowa-budynku-03.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 41544
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-budynku-04.webp",
+  "file": "images_galerie_38_budowa-budynku-04.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 71890
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-budynku-05.webp",
+  "file": "images_galerie_38_budowa-budynku-05.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 121054
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-budynku-06.webp",
+  "file": "images_galerie_38_budowa-budynku-06.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 43632
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-budynku-07.webp",
+  "file": "images_galerie_38_budowa-budynku-07.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 81886
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-budynku-08.webp",
+  "file": "images_galerie_38_budowa-budynku-08.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 85402
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-budynku-09.webp",
+  "file": "images_galerie_38_budowa-budynku-09.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 73644
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-budynku-10.webp",
+  "file": "images_galerie_38_budowa-budynku-10.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 82114
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-budynku-11.webp",
+  "file": "images_galerie_38_budowa-budynku-11.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 68190
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-domu-1.webp",
+  "file": "images_galerie_38_budowa-domu-1.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 27686
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-domu-10.webp",
+  "file": "images_galerie_38_budowa-domu-10.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 21190
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-domu-11.webp",
+  "file": "images_galerie_38_budowa-domu-11.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 31640
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-domu-2.webp",
+  "file": "images_galerie_38_budowa-domu-2.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 34228
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-domu-3.webp",
+  "file": "images_galerie_38_budowa-domu-3.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 50376
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-domu-4.webp",
+  "file": "images_galerie_38_budowa-domu-4.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 45020
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-domu-5.webp",
+  "file": "images_galerie_38_budowa-domu-5.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 42926
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-domu-6.webp",
+  "file": "images_galerie_38_budowa-domu-6.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 50056
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-domu-7.webp",
+  "file": "images_galerie_38_budowa-domu-7.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 45480
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-domu-8.webp",
+  "file": "images_galerie_38_budowa-domu-8.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 33660
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/budowa-domu-9.webp",
+  "file": "images_galerie_38_budowa-domu-9.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 53460
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-1.webp",
+  "file": "images_galerie_38_teren-budowy-domu-1.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 37852
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-10.webp",
+  "file": "images_galerie_38_teren-budowy-domu-10.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 81400
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-11.webp",
+  "file": "images_galerie_38_teren-budowy-domu-11.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 104518
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-12.webp",
+  "file": "images_galerie_38_teren-budowy-domu-12.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 92750
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-13.webp",
+  "file": "images_galerie_38_teren-budowy-domu-13.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 101246
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-2.webp",
+  "file": "images_galerie_38_teren-budowy-domu-2.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 92352
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-3.webp",
+  "file": "images_galerie_38_teren-budowy-domu-3.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 30624
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-4.webp",
+  "file": "images_galerie_38_teren-budowy-domu-4.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 35050
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-5.webp",
+  "file": "images_galerie_38_teren-budowy-domu-5.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 22364
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-6.webp",
+  "file": "images_galerie_38_teren-budowy-domu-6.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 37978
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-7.webp",
+  "file": "images_galerie_38_teren-budowy-domu-7.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 29242
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-8.webp",
+  "file": "images_galerie_38_teren-budowy-domu-8.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 89426
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/teren-budowy-domu-9.webp",
+  "file": "images_galerie_38_teren-budowy-domu-9.webp",
+  "w": 800,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 81186
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-01.webp",
+  "file": "images_galerie_38_thumbnails_budowa-01.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 29142
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-02.webp",
+  "file": "images_galerie_38_thumbnails_budowa-02.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 38178
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-03.webp",
+  "file": "images_galerie_38_thumbnails_budowa-03.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 32058
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-04.webp",
+  "file": "images_galerie_38_thumbnails_budowa-04.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 77834
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-05.webp",
+  "file": "images_galerie_38_thumbnails_budowa-05.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 76028
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-06.webp",
+  "file": "images_galerie_38_thumbnails_budowa-06.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 71566
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-budynku-01.webp",
+  "file": "images_galerie_38_thumbnails_budowa-budynku-01.webp",
+  "w": 338,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 18142
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-budynku-02.webp",
+  "file": "images_galerie_38_thumbnails_budowa-budynku-02.webp",
+  "w": 600,
+  "h": 338,
+  "fmt": "WEBP",
+  "bytes": 24948
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-budynku-03.webp",
+  "file": "images_galerie_38_thumbnails_budowa-budynku-03.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 41544
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-budynku-04.webp",
+  "file": "images_galerie_38_thumbnails_budowa-budynku-04.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 40172
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-budynku-05.webp",
+  "file": "images_galerie_38_thumbnails_budowa-budynku-05.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 68328
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-budynku-06.webp",
+  "file": "images_galerie_38_thumbnails_budowa-budynku-06.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 24388
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-budynku-07.webp",
+  "file": "images_galerie_38_thumbnails_budowa-budynku-07.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 42166
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-budynku-08.webp",
+  "file": "images_galerie_38_thumbnails_budowa-budynku-08.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 41402
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-budynku-09.webp",
+  "file": "images_galerie_38_thumbnails_budowa-budynku-09.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 34248
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-budynku-10.webp",
+  "file": "images_galerie_38_thumbnails_budowa-budynku-10.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 38910
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-budynku-11.webp",
+  "file": "images_galerie_38_thumbnails_budowa-budynku-11.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 35670
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-domu-1.webp",
+  "file": "images_galerie_38_thumbnails_budowa-domu-1.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 27686
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-domu-10.webp",
+  "file": "images_galerie_38_thumbnails_budowa-domu-10.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 21190
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-domu-11.webp",
+  "file": "images_galerie_38_thumbnails_budowa-domu-11.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 31640
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-domu-2.webp",
+  "file": "images_galerie_38_thumbnails_budowa-domu-2.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 34228
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-domu-3.webp",
+  "file": "images_galerie_38_thumbnails_budowa-domu-3.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 50376
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-domu-4.webp",
+  "file": "images_galerie_38_thumbnails_budowa-domu-4.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 45020
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-domu-5.webp",
+  "file": "images_galerie_38_thumbnails_budowa-domu-5.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 42926
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-domu-6.webp",
+  "file": "images_galerie_38_thumbnails_budowa-domu-6.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 50056
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-domu-7.webp",
+  "file": "images_galerie_38_thumbnails_budowa-domu-7.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 45480
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-domu-8.webp",
+  "file": "images_galerie_38_thumbnails_budowa-domu-8.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 33660
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/budowa-domu-9.webp",
+  "file": "images_galerie_38_thumbnails_budowa-domu-9.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 53460
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-1.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-1.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 16286
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-10.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-10.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 43194
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-11.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-11.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 57128
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-12.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-12.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 49260
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-13.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-13.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 53888
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-2.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-2.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 48066
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-3.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-3.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 30624
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-4.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-4.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 35050
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-5.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-5.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 22364
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-6.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-6.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 37978
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-7.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-7.webp",
+  "w": 450,
+  "h": 600,
+  "fmt": "WEBP",
+  "bytes": 29242
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-8.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-8.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 47508
+ },
+ {
+  "url": "https://budujzkaszubami.pl/images/galerie/38/thumbnails/teren-budowy-domu-9.webp",
+  "file": "images_galerie_38_thumbnails_teren-budowy-domu-9.webp",
+  "w": 600,
+  "h": 450,
+  "fmt": "WEBP",
+  "bytes": 43198
+ }
+]

@@ -1,0 +1,342 @@
+{
+ "article-main-f-1": {
+  "w": 700,
+  "h": 710,
+  "bytes": 45430
+ },
+ "bg-parallax-subpage-o-nas": {
+  "w": 1400,
+  "h": 1021,
+  "bytes": 59246
+ },
+ "box-offer-h": {
+  "w": 768,
+  "h": 966,
+  "bytes": 53166
+ },
+ "box-offer-h-1": {
+  "w": 768,
+  "h": 966,
+  "bytes": 37572
+ },
+ "box-offer-h-2": {
+  "w": 768,
+  "h": 966,
+  "bytes": 40566
+ },
+ "box-offer-h-3": {
+  "w": 768,
+  "h": 966,
+  "bytes": 142230
+ },
+ "content-oferta": {
+  "w": 768,
+  "h": 561,
+  "bytes": 32382
+ },
+ "content-uslugi-budowlane": {
+  "w": 768,
+  "h": 561,
+  "bytes": 25942
+ },
+ "content-uslugi-koparko-ladowarka": {
+  "w": 768,
+  "h": 561,
+  "bytes": 70684
+ },
+ "content-uslugi-remontowe": {
+  "w": 768,
+  "h": 561,
+  "bytes": 19120
+ },
+ "content-uslugi-wykonczeniowe": {
+  "w": 768,
+  "h": 561,
+  "bytes": 21532
+ },
+ "icon-breadcrumbs": {
+  "w": 21,
+  "h": 30,
+  "bytes": 114
+ },
+ "icon-localization": {
+  "w": 30,
+  "h": 31,
+  "bytes": 58
+ },
+ "icon-mail": {
+  "w": 31,
+  "h": 31,
+  "bytes": 58
+ },
+ "icon-phone": {
+  "w": 30,
+  "h": 31,
+  "bytes": 58
+ },
+ "logo": {
+  "w": 170,
+  "h": 90,
+  "bytes": 92
+ },
+ "offer-main-c": {
+  "w": 900,
+  "h": 328,
+  "bytes": 9018
+ },
+ "offer-main-c-1": {
+  "w": 900,
+  "h": 328,
+  "bytes": 11516
+ },
+ "offer-main-c-2": {
+  "w": 900,
+  "h": 328,
+  "bytes": 20122
+ },
+ "offer-main-c-3": {
+  "w": 900,
+  "h": 328,
+  "bytes": 72232
+ },
+ "photo-about-us": {
+  "w": 768,
+  "h": 561,
+  "bytes": 27446
+ },
+ "slide-d-1": {
+  "w": 1400,
+  "h": 438,
+  "bytes": 39588
+ },
+ "slide-d-1-1": {
+  "w": 1400,
+  "h": 438,
+  "bytes": 62310
+ },
+ "usp": {
+  "w": 768,
+  "h": 567,
+  "bytes": 848
+ },
+ "usp-1": {
+  "w": 768,
+  "h": 567,
+  "bytes": 3940
+ },
+ "usp-2": {
+  "w": 768,
+  "h": 567,
+  "bytes": 2792
+ },
+ "usp-3": {
+  "w": 768,
+  "h": 567,
+  "bytes": 848
+ },
+ "gal-budowa-01": {
+  "w": 450,
+  "h": 600,
+  "bytes": 28472
+ },
+ "gal-budowa-02": {
+  "w": 450,
+  "h": 600,
+  "bytes": 37436
+ },
+ "gal-budowa-03": {
+  "w": 450,
+  "h": 600,
+  "bytes": 31312
+ },
+ "gal-budowa-04": {
+  "w": 800,
+  "h": 600,
+  "bytes": 167822
+ },
+ "gal-budowa-05": {
+  "w": 800,
+  "h": 600,
+  "bytes": 164956
+ },
+ "gal-budowa-06": {
+  "w": 800,
+  "h": 600,
+  "bytes": 151796
+ },
+ "gal-budowa-budynku-01": {
+  "w": 338,
+  "h": 600,
+  "bytes": 16484
+ },
+ "gal-budowa-budynku-02": {
+  "w": 800,
+  "h": 451,
+  "bytes": 48068
+ },
+ "gal-budowa-budynku-03": {
+  "w": 450,
+  "h": 600,
+  "bytes": 40854
+ },
+ "gal-budowa-budynku-04": {
+  "w": 800,
+  "h": 600,
+  "bytes": 70478
+ },
+ "gal-budowa-budynku-05": {
+  "w": 800,
+  "h": 600,
+  "bytes": 121142
+ },
+ "gal-budowa-budynku-06": {
+  "w": 800,
+  "h": 600,
+  "bytes": 42244
+ },
+ "gal-budowa-budynku-07": {
+  "w": 800,
+  "h": 600,
+  "bytes": 80662
+ },
+ "gal-budowa-budynku-08": {
+  "w": 800,
+  "h": 600,
+  "bytes": 84086
+ },
+ "gal-budowa-budynku-09": {
+  "w": 800,
+  "h": 600,
+  "bytes": 72294
+ },
+ "gal-budowa-budynku-10": {
+  "w": 800,
+  "h": 600,
+  "bytes": 80724
+ },
+ "gal-budowa-budynku-11": {
+  "w": 800,
+  "h": 600,
+  "bytes": 67574
+ },
+ "gal-budowa-domu-1": {
+  "w": 450,
+  "h": 600,
+  "bytes": 27306
+ },
+ "gal-budowa-domu-10": {
+  "w": 450,
+  "h": 600,
+  "bytes": 20612
+ },
+ "gal-budowa-domu-11": {
+  "w": 450,
+  "h": 600,
+  "bytes": 31534
+ },
+ "gal-budowa-domu-2": {
+  "w": 450,
+  "h": 600,
+  "bytes": 34222
+ },
+ "gal-budowa-domu-3": {
+  "w": 450,
+  "h": 600,
+  "bytes": 50688
+ },
+ "gal-budowa-domu-4": {
+  "w": 450,
+  "h": 600,
+  "bytes": 45474
+ },
+ "gal-budowa-domu-5": {
+  "w": 450,
+  "h": 600,
+  "bytes": 42888
+ },
+ "gal-budowa-domu-6": {
+  "w": 450,
+  "h": 600,
+  "bytes": 50252
+ },
+ "gal-budowa-domu-7": {
+  "w": 450,
+  "h": 600,
+  "bytes": 45646
+ },
+ "gal-budowa-domu-8": {
+  "w": 450,
+  "h": 600,
+  "bytes": 33754
+ },
+ "gal-budowa-domu-9": {
+  "w": 450,
+  "h": 600,
+  "bytes": 53686
+ },
+ "gal-teren-budowy-domu-1": {
+  "w": 800,
+  "h": 600,
+  "bytes": 37560
+ },
+ "gal-teren-budowy-domu-10": {
+  "w": 800,
+  "h": 600,
+  "bytes": 81574
+ },
+ "gal-teren-budowy-domu-11": {
+  "w": 800,
+  "h": 600,
+  "bytes": 105410
+ },
+ "gal-teren-budowy-domu-12": {
+  "w": 800,
+  "h": 600,
+  "bytes": 93464
+ },
+ "gal-teren-budowy-domu-13": {
+  "w": 800,
+  "h": 600,
+  "bytes": 101842
+ },
+ "gal-teren-budowy-domu-2": {
+  "w": 800,
+  "h": 600,
+  "bytes": 92964
+ },
+ "gal-teren-budowy-domu-3": {
+  "w": 450,
+  "h": 600,
+  "bytes": 29812
+ },
+ "gal-teren-budowy-domu-4": {
+  "w": 450,
+  "h": 600,
+  "bytes": 33746
+ },
+ "gal-teren-budowy-domu-5": {
+  "w": 450,
+  "h": 600,
+  "bytes": 21702
+ },
+ "gal-teren-budowy-domu-6": {
+  "w": 450,
+  "h": 600,
+  "bytes": 36930
+ },
+ "gal-teren-budowy-domu-7": {
+  "w": 450,
+  "h": 600,
+  "bytes": 28794
+ },
+ "gal-teren-budowy-domu-8": {
+  "w": 800,
+  "h": 600,
+  "bytes": 89918
+ },
+ "gal-teren-budowy-domu-9": {
+  "w": 800,
+  "h": 600,
+  "bytes": 81308
+ }
+}

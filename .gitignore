@@ -1,0 +1,6 @@
+_backup/
+__pycache__/
+*.pyc
+site/site.zip
+Thumbs.db
+.DS_Store

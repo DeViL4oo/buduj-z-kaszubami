@@ -1,0 +1,102 @@
+# ==========================================================================
+#  Buduj z Kaszubami — konfiguracja Apache (statyczny hosting)
+#  Plik leży w katalogu głównym witryny. Wymaga mod_rewrite, mod_headers,
+#  mod_deflate, mod_expires (standardowo włączone na typowym hostingu).
+# ==========================================================================
+
+Options -Indexes
+DirectoryIndex index.html
+AddDefaultCharset UTF-8
+
+# ---------- 1. Przekierowania ----------
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # 1a. Wymuszenie HTTPS (jeśli hosting tego jeszcze nie robi)
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # 1b. www.budujzkaszubami.pl -> budujzkaszubami.pl (adres kanoniczny)
+  RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+  RewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]
+
+  # 1c. Normalizacja ukośnika: /o-firmie -> /o-firmie/ (301)
+  #     Adresy kanoniczne w serwisie kończą się ukośnikiem.
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteCond %{REQUEST_URI} !/$
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1/ [L,R=301]
+
+  # 1d. Stare adresy Joomla: /index.php oraz /index.php/... -> adres strony
+  RewriteCond %{THE_REQUEST} \s/+index\.php[/?\s] [NC]
+  RewriteRule ^index\.php.*$ / [L,R=301]
+
+  # 1e. Mapowanie starych adresów bez ukośnika (na wypadek bezpośrednich linków)
+  #     Wszystkie adresy merytoryczne pozostały bez zmian, różni się tylko
+  #     końcowy ukośnik — obsługuje go reguła 1c.
+</IfModule>
+
+# ---------- 2. Strona błędu ----------
+ErrorDocument 404 /404.html
+
+# ---------- 3. Kompresja ----------
+<IfModule mod_brotli.c>
+  AddOutputFilterByType BROTLI_COMPRESS text/html text/css text/plain text/xml \
+    application/javascript application/json application/xml image/svg+xml
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml \
+    application/javascript application/json application/xml image/svg+xml
+</IfModule>
+
+# ---------- 4. Cache ----------
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault                          "access plus 7 days"
+  ExpiresByType text/html                 "access plus 0 seconds"
+  ExpiresByType text/css                  "access plus 7 days"
+  ExpiresByType application/javascript    "access plus 7 days"
+  ExpiresByType image/avif                "access plus 1 year"
+  ExpiresByType image/webp                "access plus 1 year"
+  ExpiresByType image/jpeg                "access plus 1 year"
+  ExpiresByType image/png                 "access plus 1 year"
+  ExpiresByType image/svg+xml             "access plus 1 month"
+  ExpiresByType font/woff2                "access plus 1 year"
+  ExpiresByType application/xml           "access plus 1 hour"
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(avif|webp|jpe?g|png|woff2)$">
+    Header set Cache-Control "public, max-age=31536000"
+  </FilesMatch>
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=604800, must-revalidate"
+  </FilesMatch>
+  <FilesMatch "\.html$">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+
+  # ---------- 5. Nagłówki bezpieczeństwa ----------
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set Permissions-Policy "geolocation=(), microphone=(), camera=(), payment=()"
+  # CSP: skrypty i style wyłącznie z własnej domeny; mapa Google ładowana
+  # dopiero po kliknięciu użytkownika (ramka z maps.google.com).
+  Header set Content-Security-Policy "default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self'; frame-src https://maps.google.com https://www.google.com; connect-src 'self'; form-action 'self' mailto:; base-uri 'self'"
+</IfModule>
+
+# ---------- 6. Typy MIME ----------
+<IfModule mod_mime.c>
+  AddType image/avif .avif
+  AddType image/webp .webp
+  AddType font/woff2 .woff2
+</IfModule>
+
+# ---------- 7. Ochrona plików roboczych ----------
+<FilesMatch "\.(md|py|json|log|bak)$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+</FilesMatch>
