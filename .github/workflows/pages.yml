@@ -1,0 +1,62 @@
+name: Pages — podgląd
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Przygotuj podgląd (prefiks /buduj-z-kaszubami)
+        run: |
+          python3 - <<'PY'
+          import os, re, shutil
+
+          SRC, DST, BASE = "site", "_site", "/buduj-z-kaszubami"
+          shutil.copytree(SRC, DST)
+
+          attr = re.compile(r'(\b(?:href|src|data-full)=")/(?!/)')
+
+          for root, _, files in os.walk(DST):
+              for name in files:
+                  if not name.endswith((".html", ".css")):
+                      continue
+                  path = os.path.join(root, name)
+                  text = open(path, encoding="utf-8").read()
+                  if name.endswith(".css"):
+                      text = text.replace('url("/', f'url("{BASE}/').replace("url('/", f"url('{BASE}/")
+                  else:
+                      text = attr.sub(lambda m: m.group(1) + BASE + "/", text)
+                      text = text.replace(
+                          'content="index,follow,max-image-preview:large"',
+                          'content="noindex,follow"',
+                      )
+                  open(path, "w", encoding="utf-8", newline="").write(text)
+          PY
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
