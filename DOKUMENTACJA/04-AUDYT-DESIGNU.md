@@ -55,6 +55,12 @@ i czytelność. Nie dodano sekcji, funkcji ani nowych elementów interfejsu.
 | 19 | `/galeria/` | Decyzja właściciela: usunąć podpowiedź „Kliknij zdjęcie…”. | Usunięty akapit wraz z pustym kontenerem `.prose` i martwym CSS `.gallery__hint`; galeria startuje bezpośrednio po nagłówku strony. |
 | 20 | Mapa (`/kontakt/`) | Decyzja właściciela: mapa ma być widoczna bez klikania w guzik. | Osadzona od razu przez OpenStreetMap (`loading="lazy"`, tytuł opisowy, pinezka na ul. Długiej 127); po czystym odświeżeniu strony **0 plików cookie**, więc nie trzeba banera zgody. Pod mapą pozostaje odnośnik „Otwórz w Mapach Google”. Na telefonie kadr 4:3, na desktopie 16:6. |
 
+### Runda 4 — ładowanie zdjęć
+
+| # | Obszar | Problem / decyzja | Poprawka |
+|---|--------|-------------------|----------|
+| 21 | Obrazy (`loading="lazy"`) | Natywne lazy w Chrome odkłada żądanie o ~0,9 s po wejściu obrazu w kadr (pomiar CDP: obraz widoczny w 739 ms, żądanie dopiero w 1654 ms, mimo że plik 32 KB pobiera się 34 ms). Efekt: „doczytywanie” przy przewijaniu. | Skrypt podnosi obraz do `loading="eager"`, gdy jest ~400 px przed viewportem (bez JS zostaje natywny lazy), a pierwsze 4 zdjęcia galerii mają `fetchpriority="high"`. Po zmianie żądanie startuje 250–330 ms **przed** wejściem w kadr. Lighthouse galeria: 0,92 / LCP 3,0 s (przed 0,92 / 3,4 s), strona główna 100 / LCP 1,5 s. |
+
 
 ## 3. Zweryfikowane jako poprawne
 
